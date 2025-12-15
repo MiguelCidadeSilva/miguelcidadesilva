@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Miguel Cidade Silva</h1>
-<h3 align="center">A software engineering student @ Universidade do Minho</h3>
+<h3 align="center">A backend engineer at JTA: The Data Scientists</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
